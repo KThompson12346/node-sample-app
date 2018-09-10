@@ -1,4 +1,15 @@
-# Instructions to run 
+# Instructions to run Vagrant
+1. Download VirtualBox and then Vagrant
+2. Click on VirtualBox installer and follow instructions, do the same with Vagrant
+3. Once installed open up terminal and enter the following commands:
+  1. vagrant init ubuntu/xenial64
+  2. vagrant plugin install vagrant-hostsupdater
+  3. vagrant up
+  4. vagrant ssh
+    * Commands past here type in the inside VM
+  5. sudo apt-get update -y
+  6. sudo apt-get install nginx -y
+
 
 # Sparta Node Sample App
 
