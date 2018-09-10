@@ -6,7 +6,7 @@
   2. vagrant plugin install vagrant-hostsupdater
   3. vagrant up
   4. vagrant ssh
-    * Commands past here type in the inside VM
+  * Commands past here type in the inside VM:
   5. sudo apt-get update -y
   6. sudo apt-get install nginx -y
 
