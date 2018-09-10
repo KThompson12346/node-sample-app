@@ -1,7 +1,7 @@
 # Instructions to run Vagrant
 1. Download VirtualBox and then Vagrant
 2. Click on VirtualBox installer and follow instructions, do the same with Vagrant
-3. Once installed open up terminal and enter the following commands:
+3. Once installed open up terminal and enter the following commands in the same order:
   1. vagrant init ubuntu/xenial64
   2. vagrant plugin install vagrant-hostsupdater
   3. vagrant up
