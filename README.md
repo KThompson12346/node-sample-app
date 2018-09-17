@@ -1,4 +1,4 @@
-# Kirome Thompson error
+# Kirome Thompson
 
 # Instructions to run Vagrant
 1. Download VirtualBox and then Vagrant

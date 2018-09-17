@@ -47,7 +47,7 @@ app.listen(3000 , function(){
 
 
 // deliberately poorly implemented fibonnaci
-function fibnacci(n) {
+function fibonacci(n) {
 
   if(n == 0)
     return 0;
