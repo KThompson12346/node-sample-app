@@ -1,3 +1,5 @@
+###### Kirome Thompson
+
 # Instructions to run Vagrant
 1. Download VirtualBox and then Vagrant
 2. Click on VirtualBox installer and follow instructions, do the same with Vagrant
